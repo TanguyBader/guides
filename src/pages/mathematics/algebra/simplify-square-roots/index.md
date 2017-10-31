@@ -2,7 +2,7 @@
 title: Simplify Square Roots
 ---
 ## Simplify Square Roots
-
+Example: from √75 to 5⋅√3
 This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/algebra/simplify-square-roots/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
 
 <a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
